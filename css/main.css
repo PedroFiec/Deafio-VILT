@@ -1,0 +1,77 @@
+
+nav {   
+    margin-bottom: 100px;
+    width: 100%;    
+    text-align:center;
+    background-color: black;
+    }
+a {
+    text-decoration:none;
+    color: white;
+    line-height: 28px;  
+    font-size: 17px;
+
+}
+h1 {
+    top: 0;
+    width: 100%;
+    text-align:center;
+    font-size: 30px;
+}
+.obriga {
+    margin-top: 30px;
+    margin-bottom: 30px;    
+
+
+}
+.my-container {
+    margin: 30px 150px 20px;
+    
+
+}
+#conteudo{
+    background-color: #DCDCDC;
+    
+}
+
+.sem-circulo {
+    list-style-type: none;
+}
+label {
+	display: block;
+	float: left;
+}
+label, input {
+	width: 150px;
+	
+}
+
+/* AUMENTA A largura do INPUT*/
+input {
+	width:150px;
+}
+#lista {
+    background-color: #DCDCDC;
+}
+th, td {
+    /**width: 300px;*/
+    padding: 0;
+    border: 1px solid black;
+
+}
+td:first-child { width: 200px  }
+td:first-child + td {  width: 150px }
+td:first-child + td + td {  width: 120px }
+.color-red {
+    background-color: red;
+}
+.color-green {
+    background-color: green;
+}
+footer {
+    background-color: DodgerBlue;
+    text-align:center;
+    margin: 30px 150px 20px;
+    
+}
+    
